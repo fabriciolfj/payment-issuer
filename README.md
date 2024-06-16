@@ -1,8 +1,6 @@
 # payment-issuer
-- emissor de boleto/pix/contas a recer
+- emissor de boleto/pix/contas a recerber
 - gerar regras do pagamento
 
 # tecnologia
-- quarkus
-- mongodb
-- redis
+- go
