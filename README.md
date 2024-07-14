@@ -3,4 +3,6 @@
 - gerar regras do pagamento
 
 # tecnologia
-- go
+- java
+- quarkus
+- MUTINY
